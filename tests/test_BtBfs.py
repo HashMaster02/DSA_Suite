@@ -2,7 +2,7 @@ import unittest
 from src.BtBfs import bt_bfs
 from tree import tree
 
-class TestBTBFS(unittest.TestCase):
+class TestBtBfs(unittest.TestCase):
 
     def setUp(self):
         self.tree = tree
